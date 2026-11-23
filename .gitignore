@@ -1,0 +1,6 @@
+# Compiled output and Eclipse workspace settings
+bin/
+.settings/
+
+# Your private database password (copy db.properties.example to db.properties)
+db.properties
